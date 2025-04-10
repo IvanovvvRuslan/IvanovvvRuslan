@@ -1,4 +1,8 @@
-## Hi there 👋
+## About me
+
+I'm aspiring .NET developer with 1 year of experience passionate about building modern web applications using C# and .NET technologies. I enjoy working with ASP.NET Core and Entity Framework Core to create efficient and scalable solutions. Constantly learning and improving my skills to stay up to date with the latest industry trends.
+
+
 
 <!--
 **IvanovvvRuslan/IvanovvvRuslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
